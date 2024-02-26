@@ -1,0 +1,39 @@
+body {
+  width: 500px;
+  margin: auto;
+  padding: 100px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: white;
+}
+
+.picture {
+  width: 500px;
+  height: 600px;
+}
+
+.picture-2 {
+  width: 500px;
+  height: 600px;
+  display: block;
+}
+html {
+  background-color: rgb(255, 0, 0);
+}
+
+a {
+  color: rgb(233, 12, 193);
+  text-decoration: wavy;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: aqua;
+}
+
+.correctColor {
+  color: green;
+}
+
+.incorrectColor {
+  color: rgb(255, 0, 0);
+}
